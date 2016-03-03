@@ -1,0 +1,42 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.left {
+	background-color: #4c94e4;
+	width: 34%;
+	height: 100%;
+	float: left;
+}
+
+.middle {
+	background-color: #54e4c4;
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+
+.right {
+	background-color: #bceb84;
+	width: 33%;
+	height: 100%;
+	float: left;
+	position: relative;
+}
+
+#image {
+	background-color: #d4041c;
+	height: 30%;
+	text-align: center;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+p {
+	margin: 50%;
+}
+
+

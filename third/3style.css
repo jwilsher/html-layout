@@ -1,0 +1,34 @@
+html, body {
+	height: 100%;
+	width:100%;
+}
+div {
+	height: 14%;
+}
+.gray {
+	background-color: #dddddd;
+	position: relative;
+}
+.box {
+	background-color: #4c93e3;
+	position: absolute;
+	height: 70px;
+	width: 70px;
+	left:10px;
+	top: 10px;
+}
+.white {
+	height: 28%;
+}
+.blue {
+	background-color: #4c93e3;
+}
+.teal {
+	background-color: #55e4c2;
+}
+.green {
+	background-color: #bcea84;
+}
+.yellow {
+	background-color: #fbe31c;
+}
